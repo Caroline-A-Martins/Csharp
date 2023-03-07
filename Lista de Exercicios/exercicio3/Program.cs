@@ -1,4 +1,7 @@
-﻿
+﻿// 3) Escreva um programa que leia um número inteiro, 
+//calcule e exiba na tela o quadrado deste número. 
+//(Usar função da classe Math). 
+
 using System;
 
 public class Program

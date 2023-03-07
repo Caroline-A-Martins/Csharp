@@ -1,4 +1,6 @@
-﻿using System;
+﻿//2 ) Escreva um programa que leia um número inteiro, 
+//calculee exiba na tela o dobro deste número.
+using System;
 namespace exercicio2
 {
     class Program

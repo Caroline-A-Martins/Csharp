@@ -1,4 +1,7 @@
-﻿using System;
+﻿// 1 ) Escreva um programa que armazene em variáveis o seu nome, 
+//sua idade e a cidade onde reside. 
+//Na sequencia exiba o conteúdo destas variáveis na tela. 
+using System;
 
 namespace exercicio1
 {

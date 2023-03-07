@@ -1,5 +1,6 @@
-﻿using System;
+﻿//9)Escreva um programa que receba valores inteirospara as variáveis W, X, Y e Z e calcule a expressão lógica ((X >= Y) AND (Z <=X)) OR ((X == W) AND (Y == Z)) OR (NOT(X != W)).
 
+using System;
 public class Program
 {
     public static void Main(string[] args)

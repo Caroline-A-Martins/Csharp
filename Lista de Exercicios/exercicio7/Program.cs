@@ -1,5 +1,8 @@
-﻿using System;
-
+﻿//7)Escreva um programa queleia o nome de duas pessoas e ao final exiba:
+//a)O nome das duas pessoas com todos os caracteres maiúsculos;
+//b)A quantidade de caracteres de cada nome;
+//c)Apenas os três primeiros caracteres de cada nome.
+using System;
 public class Program
 {
     public static void Main(string[] args)
