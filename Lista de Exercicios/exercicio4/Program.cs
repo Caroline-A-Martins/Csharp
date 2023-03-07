@@ -1,4 +1,5 @@
-﻿// 4) Escreva um programa que calcule e exiba o resultado da seguinte expressão matemática: (Dica: O usuário deverá informar os valores para as variáveis A, B e C) A² * 5 –C / (B –A % 4)using System;
+﻿// 4) Escreva um programa que calcule e exiba o resultado da seguinte expressão matemática: 
+//(Dica: O usuário deverá informar os valores para as variáveis A, B e C) A² * 5 –C / (B –A % 4)using System;
 
 public class Program
 {
